@@ -240,6 +240,9 @@ body {
 .priority-item {
    width: calc((100% - 72px) / 4);
 }
+.priority-icon {
+   
+}
 .priority-title {
    margin-bottom: 8px;
 }
