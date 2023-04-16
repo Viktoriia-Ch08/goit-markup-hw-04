@@ -487,9 +487,12 @@ padding-bottom: 120px;
 }
 /*Gallery */
 .gallery-section {
-   padding: 96px 120px;
+   padding-top: 96px;
+   padding-bottom: 120px;
 }
-
+.filters-list {
+   margin-bottom: 72px;
+}
 .gallery-list {
    display: flex;
    flex-direction: row;
@@ -497,7 +500,6 @@ padding-bottom: 120px;
    justify-content: space-between;
    column-gap: 24px;
    row-gap: 48px;
-   margin-bottom: 72px;
 }
 .gallery-item {
    width: calc((100% - 48px) / 3);
