@@ -298,11 +298,9 @@ padding-bottom: 120px;
 
 
 /* Our team */
-.team-wrapper {
-   background-color: var(--team-bg-color);
-}
 .team-section {
    padding: 120px 0;
+   background-color: var(--team-bg-color);
 }
 .team-list {
    display: flex;
